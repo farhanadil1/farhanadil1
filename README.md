@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Adil Farhan 👋</h1>
 
-<p align="center"><b>Student | Software Engineer Intern</b></p>
+<p align="center"><b>Student </b></p>
 
 <p align="center"><i>Writing code for change.</i></p>
 
@@ -18,7 +18,7 @@
 
 
 
--  Currently a student working as a Software Engineer Intern
+-  Currently a student in my final year
 
 -  Passionate about building impactful solutions using **Java**, **React**, **TailwindCSS**, **Spring Boot**, **MySQL**, **Node.js**, **Hibernate**, **JavaScript**, and **Express.js**
 
@@ -37,6 +37,8 @@
 
 
 - [EcoKart](https://github.com/farhanadil1/EcoKart) – Sustainable product selling platform
+
+- [CVCraft](https://github.com/farhanadil1/CVCraft) - Resume builder web app
 
 - [FitMe](https://github.com/farhanadil1/FitMe) – Fitness tracking and guidance app
 
@@ -91,7 +93,6 @@ Explore more projects in my [GitHub Portfolio](https://github.com/farhanadil1?ta
 
 - Portfolio: [farhanadil.netlify.app](https://farhanadil.netlify.app)
 
-- LinkedIn, Instagram: *Coming Soon!*
 
 
 

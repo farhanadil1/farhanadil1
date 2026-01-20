@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Adil Farhan 👋</h1>
+<h1 align="center">Hi, I'm Adil Farhan</h1>
 
 <p align="center"><b>Student </b></p>
 
@@ -14,7 +14,7 @@
 
 
 
-### 🚀 About Me
+### About Me
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-### 🌟 Featured Projects
+### Featured Projects
 
 
 
@@ -53,7 +53,7 @@ Explore more projects in my [GitHub Portfolio](https://github.com/farhanadil1?ta
 ---
 
 
-### 🛠️ Skills
+### Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -87,7 +87,7 @@ Explore more projects in my [GitHub Portfolio](https://github.com/farhanadil1?ta
 
 
 
-### 🌐 Connect with Me
+### Connect with Me
 
 
 
@@ -100,7 +100,7 @@ Explore more projects in my [GitHub Portfolio](https://github.com/farhanadil1?ta
 
 
 
-### ⚡ Fun Facts/Hobbies
+### Fun Facts/Hobbies
 
 
 
@@ -121,7 +121,7 @@ Explore more projects in my [GitHub Portfolio](https://github.com/farhanadil1?ta
 <p align="center">
 
 
- ### 📊 Github Stats
+ ### Github Stats
   <img src="https://github-readme-stats.vercel.app/api?username=farhanadil1&show_icons=true&theme=dark" alt="GitHub Stats"/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanadil1&theme=dark&layout=compact&hide_border=true)
 </p>
